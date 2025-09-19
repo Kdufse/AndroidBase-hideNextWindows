@@ -16,7 +16,7 @@
    您可以在本仓库的 Releases 中下载
 2. **Cmd**  
    ```cmd
-   start AndroidBase-hideNextWindows.exe
+   start AndroidBase-hideNextWindows.bat
    ```
 
 ## ♻️注意事项
